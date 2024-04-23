@@ -24,7 +24,7 @@ body{
 }
 
 .card p{
-    font-size: smaller;
+    font-size: 70%;
     padding: 10px;
 }
 
@@ -212,6 +212,16 @@ header .textos-header{
 .about-services{
     background: #f2f2f2;
     padding-bottom: 30px;
+}
+
+.servicio-cont-a{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.servicio-ind-a{
+    width: 100%;
+    text-align: center;
 }
 
 .servicio-cont{
